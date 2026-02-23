@@ -3,7 +3,7 @@
 ## Question 1: What is the start date and end date of the dataset?
 
 ### Answer 1: 
-´´´
+```
 SELECT
     MIN(trip_pickup_date_time) AS min_pickup_ts,
     MAX(trip_pickup_date_time) AS max_pickup_ts
