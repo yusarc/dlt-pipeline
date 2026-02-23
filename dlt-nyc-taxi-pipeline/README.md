@@ -14,7 +14,7 @@ The pipeline was built as part of the DataTalksClub **Data Engineering Zoomcamp*
 - **Destination**: Local DuckDB database file `taxi_pipeline_pipeline.duckdb`  
 - **Main table**: `taxi_pipeline_pipeline_dataset.rides`  
 
-Each row in `rides` represents a single taxi trip and contains fields such as pickup and dropoff timestamps, trip distance, fares, tips and payment type.[web:119]
+Each row in `rides` represents a single taxi trip and contains fields such as pickup and dropoff timestamps, trip distance, fares, tips and payment type.
 
 ---
 
