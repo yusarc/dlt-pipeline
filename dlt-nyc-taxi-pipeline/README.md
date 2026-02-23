@@ -1,8 +1,8 @@
 # NYC Taxi dlt Pipeline
 
-This project implements a small data pipeline using the **dlt** library to ingest NYC Taxi trip data from a REST API into **DuckDB** for analysis.[web:119]
+This project implements a small data pipeline using the **dlt** library to ingest NYC Taxi trip data from a REST API into **DuckDB** for analysis.
 
-The pipeline was built as part of the DataTalksClub **Data Engineering Zoomcamp** dlt workshop homework.[web:103]
+The pipeline was built as part of the DataTalksClub **Data Engineering Zoomcamp** dlt workshop homework.
 
 ---
 
